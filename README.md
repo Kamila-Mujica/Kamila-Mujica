@@ -6,7 +6,7 @@ Me chamo Kamila Mujica, tenho 17 anos e estou cursando o 3º ano do Ensino Médi
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/valentina-bechara-scolari/" target="_blank">
+  <a href="https://www.linkedin.com/in/kamila-mujica-0a5a5734b?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/soft_kamii?igsh=MWh1c2dxM2ZhczYyYw%3D%3D/" target="_blank">
